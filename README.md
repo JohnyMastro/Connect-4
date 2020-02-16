@@ -1,5 +1,4 @@
 # Connect-4
-This is a dump of a project from a 48 hour challenge I did in 2018.
 
 This is an Unity implementation of the classic tabletop game Connect 4
 
